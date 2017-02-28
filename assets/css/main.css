@@ -1719,14 +1719,14 @@
         
         /* added a larger profile pic size */
         .image.avatar75 {
-			width: 75px;
-			height: 75px;
+			width: 100px;
+			height: 100px;
 			background: #f00;
 		}
 
 			.image.avatar75 img {
-				width: 75px;
-				height: 75px;
+				width: 100px;
+				height: 100px;
 			}
 
 		.image.fit {
@@ -2404,7 +2404,7 @@
 				}
 
 			#logo {
-				margin: 1.5em 1.25em 1.25em 1.25em;
+				margin: 1.5em 1.25em 2em 1.25em;
 			}
 
 			#nav ul li a {
