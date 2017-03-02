@@ -1,5 +1,5 @@
-This is a portfolio website for myself. I used a design by HTML5 UP and modified it to fit my needs. Credits to the designer and other notes are below!
-<br />
+This is a portfolio website for myself. I used a design by HTML5 UP and modified it to fit my needs. Credits to the designer and other notes are below!  
+
 
 Prologue by HTML5 UP
 html5up.net | @ajlkn
