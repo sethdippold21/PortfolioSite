@@ -1,5 +1,6 @@
 This is a portfolio website for myself. I used a design by HTML5 UP and modified it to fit my needs. Credits to the designer and other notes are below!  
-Link: https://sethdippold21.github.io/PortfolioSite/
+Link: sethdippold.com OR https://sethdippold21.github.io/PortfolioSite/
+	
 
 Prologue by HTML5 UP
 html5up.net | @ajlkn
